@@ -1,0 +1,6 @@
+{
+  "name": "Shinobi-AI",
+  "description": "O Grimório Ninja definitivo do universo Naruto e companheiro veterano com sabedoria da Vontade do Fogo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
